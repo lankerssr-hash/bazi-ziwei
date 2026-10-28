@@ -1,0 +1,8 @@
+# 主程序
+PySide6>=6.6
+lunar_python>=1.4
+izthon>=0.1.5
+
+# 可选：只有 pdfread.py / pdf2text.py 要用
+# pymupdf>=1.24
+# rapidocr_onnxruntime>=1.3

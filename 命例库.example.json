@@ -1,0 +1,30 @@
+[
+  {
+    "name": "示例·甲",
+    "gender": "女",
+    "year": 1990,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "longitude": 114.06,
+    "true_solar": true,
+    "pillars": "庚午 壬午 庚申 辛巳",
+    "strength": "偏强",
+    "ge": "正官格"
+  },
+  {
+    "name": "示例·乙",
+    "gender": "男",
+    "year": 1988,
+    "month": 11,
+    "day": 3,
+    "hour": 20,
+    "minute": 0,
+    "longitude": 114.06,
+    "true_solar": true,
+    "pillars": "戊辰 癸亥 丙子 戊戌",
+    "strength": "偏弱",
+    "ge": "七杀格"
+  }
+]

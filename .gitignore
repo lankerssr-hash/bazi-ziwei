@@ -1,0 +1,48 @@
+# 不提交的东西
+
+# --- 密钥 ---
+deepseek_key.txt
+doubao_key.txt
+custom_key.txt
+*.key
+key.txt
+.env
+
+# --- 个人数据（命例库里有真实生日，绝不外传）---
+命例库.json
+
+# --- 有版权的书：原始 PDF 和 OCR 全文都不提交 ---
+ocr/
+pdf/
+pdf_out/
+ref/books_ocr_*.md
+*.pdf
+*.epub
+*.mobi
+
+# --- 运行产物 ---
+__pycache__/
+*.pyc
+_debug.log
+gui.log
+gui.err
+run.log
+run.err
+上次AI解盘.md
+cases_mangpai.jsonl
+ocr_cases.jsonl
+
+# --- 编辑器 / 系统 ---
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# --- 别人的仓库代码，只作数据来源，运行时不需要 ---
+ref/datas.py
+ref/ganzhi.py
+ref/sizi.py
+ref/yue.py
+
+# --- 里面有真人八字，不能公开 ---
+示例输出.txt
